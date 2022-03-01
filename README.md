@@ -1,3 +1,5 @@
+Powered by National Chess Crushers Chess Academy!
+
 # lichess-bot
 [![Python Build](https://github.com/ShailChoksi/lichess-bot/actions/workflows/python-build.yml/badge.svg)](https://github.com/ShailChoksi/lichess-bot/actions/workflows/python-build.yml)
 [![Python Test](https://github.com/ShailChoksi/lichess-bot/actions/workflows/python-test.yml/badge.svg)](https://github.com/ShailChoksi/lichess-bot/actions/workflows/python-test.yml)
